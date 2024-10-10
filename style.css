@@ -345,11 +345,11 @@ body {
     justify-content: center;
     align-items: flex-start;
     background-image: url(Images/banner/Banner\ 7.jpg);
-    min-width: 700px;
+    min-width: 620px;
     height: 50vh;
     background-size: cover;
     background-position: center;
-    padding: 5px;
+    padding: 10px;
 }
 
 #sm-banner .banner-box2{
