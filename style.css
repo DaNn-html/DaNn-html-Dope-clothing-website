@@ -779,10 +779,10 @@ footer .copyright{
     }
 
     #hero{
-        height: 70vh;
+        height: 68vh;
         padding: 0 80px;
         background-position: top 30% right 30%;
-        background-size: contain;
+        background-size: cover;
     }
 
     #feature{
