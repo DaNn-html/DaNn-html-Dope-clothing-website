@@ -160,7 +160,7 @@ body {
 }
 
 #hero button{
-    background-image: url(Images/Button2.png);
+    background-image: url(./Images/Button2.png);
     background-color: transparent;
     color: #088178;
     border: 0;
